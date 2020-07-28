@@ -6,6 +6,7 @@ if [ "$(whoami)" != "root" ]; then
 fi
 apt update
 apt upgrade
+apt search openjdk
 apt install openjdk-9-jdk-headless screen
 
 whiptail --msgbox "Now Go to read.me and edit rc.local" $WT_HEIGHT $WT_WIDTH
