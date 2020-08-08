@@ -22,6 +22,9 @@ screen -S minecraft -X stuff 'java -Xmx2000M -Xms2000M -jar server.jar nogui\n'
 Now press ctrl+s and ctrl+x (or strg)
 Now open the port 25565 in youre router TCP and UDP 
 
+Check the folder "How TO GET BUKKIT" for a bukkit version !!!!!!!!!
+I cant add it in the repository because of legal issues 
+
 
 
 
