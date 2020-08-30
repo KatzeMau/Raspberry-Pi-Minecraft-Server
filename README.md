@@ -1,4 +1,4 @@
-# Raspberry-Pi-Minecraft-Server (1.16.1)
+# Raspberry-Pi-Minecraft-Server (1.16.2)
 (but you can update you’re self)
 This will turn youre raspberry pi 4 (or any other raspi) into a Minecraft server
 This won’t work with the 1G version!
@@ -25,6 +25,8 @@ Now open the port 25565 in youre router TCP and UDP
 Check the folder "How TO GET BUKKIT" for a bukkit version !!!!!!!!!
 I cant add it in the repository because of legal issues 
 
++++NEWS+++
+NOW 1.16.2
 
 
 
