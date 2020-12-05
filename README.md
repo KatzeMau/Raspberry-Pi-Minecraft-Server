@@ -27,8 +27,9 @@ I cant add it in the repository because of legal issues
 
 +++NEWS+++
 ~~NOW 1.16.2~~
-NOW 1.16.3
-i dont really care mutch about the project currently 
-
+~~NOW 1.16.3~~
+NOW 1.16.4
+The project has been put on hold
+It works, but don't expect the server version to be always up to date
 
 
