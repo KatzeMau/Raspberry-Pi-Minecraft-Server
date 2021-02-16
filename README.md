@@ -1,4 +1,4 @@
-# Raspberry-Pi-Minecraft-Server (1.16.3)
+# Raspberry-Pi-Minecraft-Server (1.16.5)
 (but you can update you’re self)
 This will turn youre raspberry pi 4 (or any other raspi) into a Minecraft server
 This won’t work with the 1G version!
@@ -28,11 +28,13 @@ Replace server.jar with the server.jar from bukkit
 
 +++NEWS+++
 
+##NOW 1.16.5##
+
 ~~NOW 1.16.2~~
 
 ~~NOW 1.16.3~~
 
-NOW 1.16.4
+~~NOW 1.16.4~~
 
 The project has been put on hold
 It works, but don't expect the server version to be always up to date
