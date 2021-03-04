@@ -7,7 +7,7 @@ fi
 apt update
 apt upgrade -y 
 apt search openjdk
-apt install openjdk-9-jdk-headless screen -y 
+apt install openjdk-14-jdk-headless screen -y 
 apt install screen -y
 whiptail --msgbox "Now Go to read.me and edit rc.local" $WT_HEIGHT $WT_WIDTH
   exit
