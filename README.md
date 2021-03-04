@@ -8,6 +8,8 @@ I have the 4G version and use 2G for Minecraft.
 Now, lets run the install.sh 
 (By typing sudo sh install.sh)
 
+So, now you can edit the server.properties and change what you want :)
+
 After the script ends go to the rc.local 
 sudo nano /etc/rc.local 
 add at the end:
@@ -25,6 +27,8 @@ Now open the port 25565 in youre router TCP and UDP
 Want bukkit ?
 Replace server.jar with the server.jar from bukkit
 
+Want forge ?
+Replace server.jar with the server.jar from forge
 
 +++NEWS+++
 
